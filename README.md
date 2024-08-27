@@ -11,6 +11,3 @@ This repository contains a project focused on predicting student academic perfor
 - **Evaluation Metrics:** Root Mean Squared Error (RMSE) and R² Score.
   
 
-## Description
-
-The project demonstrates how machine learning can assist academic institutions in proactively identifying students who may need additional support, ultimately aiming to improve educational outcomes.
